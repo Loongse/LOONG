@@ -6,5 +6,5 @@ void main(){
 			printf("%d*%d=%d",i,j,i*j);
 		printf("\n");
 	}
-	//测试
+	//测ch试
 }
